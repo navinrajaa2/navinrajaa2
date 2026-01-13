@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Navin Rajaa</h1>
 
 <p align="center">
-<strong>Java Backend Developer | Learning React, Next.js & Spring Boot</strong><br>
+<strong>Java Backend Developer | Learning React, Node.js & Spring Boot</strong><br>
 <strong>Aspiring Red Team Operator | Secure Coding & Offensive Security Enthusiast</strong>
 </p>
 
