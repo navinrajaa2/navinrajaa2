@@ -37,7 +37,7 @@ My goal is to bridge the gap between <strong>secure software development</strong
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/navin-rajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navin rajaa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navin-rajaa-61262a329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navin rajaa" height="30" width="40" /></a>
 <a href="https://instagram.com/navin_rajaa_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navin_rajaa_2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/navinrajaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navinrajaa02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navinrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navinrajaa" height="30" width="40" /></a>
