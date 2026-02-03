@@ -139,30 +139,6 @@ Daily practice on competitive programming platforms:
 > 💡 *Check out my pinned repositories below to see my latest work!*
 
 ---
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=navinrajaa2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinrajaa2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa2&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&theme=react-dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 2025 Goals
 
 ```diff
