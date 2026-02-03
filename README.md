@@ -196,8 +196,6 @@ I'm always open to collaborating on interesting projects, discussing technology,
 
 *"Building secure systems, one line of code at a time."*
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&bg_color=0d1117&color=7a5dff&line=7a5dff&point=ffffff&area=true&hide_border=true)
-
 </div>
 
 ---
