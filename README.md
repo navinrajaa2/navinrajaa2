@@ -20,7 +20,7 @@
 ```java
 public class NavinRajaa {
     private String role = "Java Backend Developer";
-    private String[] currentlyLearning = {"Spring Boot", "React", "Next.js", "Networking", "Red Teaming"};
+    private String[] currentlyLearning = {"Spring Boot", "React", "Networking", "Red Teaming"};
     private String goal = "Build secure, scalable systems & master offensive security";
     
     public void dailyRoutine() {
@@ -35,7 +35,7 @@ public class NavinRajaa {
 I'm a **Computer Science student** passionate about building **robust backend systems** while developing expertise in **application security** and **offensive security practices**. My mission is to bridge the gap between **secure software development** and **ethical hacking**.
 
 - ☕ Strong foundation in **Java, OOP, Data Structures & Algorithms**
-- 🌐 Building web applications with **JavaScript, HTML, CSS** and learning **React/Next.js**
+- 🌐 Building web applications with **JavaScript, HTML, CSS** and learning **React**
 - 🔐 Security-focused mindset: learning **OWASP Top 10, secure coding, and penetration testing**
 - 🎯 Solving problems daily on **LeetCode** to sharpen algorithmic thinking
 - 🧪 Learn by **building, breaking, and securing systems**
@@ -85,7 +85,7 @@ I'm a **Computer Science student** passionate about building **robust backend sy
 <td width="50%">
 
 ### 🌐 Frontend Development
-- **React.js** → **Next.js**
+- **React.js**
 - **Modern JavaScript (ES6+)**
 - **State Management**
 - **Responsive Design**
@@ -206,23 +206,13 @@ I'm always open to collaborating on interesting projects, discussing technology,
 
 ---
 
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ **Thanks for visiting my profile!** ⭐
 
 *"Building secure systems, one line of code at a time."*
 
-![Snake animation](https://raw.githubusercontent.com/navinrajaa2/navinrajaa2/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&bg_color=0d1117&color=7a5dff&line=7a5dff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
