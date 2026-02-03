@@ -80,7 +80,7 @@ I'm a **Computer Science student** passionate about building **robust backend sy
 
 ## 📚 Currently Learning
 
-<table>
+<table align="center">
 <tr>
 <td width="50%">
 
