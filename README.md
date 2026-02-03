@@ -41,7 +41,6 @@ My goal is to bridge the gap between <strong>secure software development</strong
 <a href="https://instagram.com/navin_rajaa_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navin_rajaa_2" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/navinrajaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navinrajaa02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/navinrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navinrajaa" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/navinrajaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="navinrajaa02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/navinra39rz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navinra39rz" height="30" width="40" /></a>
 </p>
 
