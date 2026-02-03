@@ -42,6 +42,27 @@ I'm a **Computer Science student** passionate about building **robust backend sy
 - 📈 Consistent growth through hands-on projects and continuous learning
 
 ---
+## 💻 LeetCode Statistics
+
+<div align="center">
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/navinrajaa?theme=dark&font=Karma&ext=heatmap)
+
+</div>
+
+<div align="center">
+
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=navinrajaa&theme=dark)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&theme=react-dark&hide_border=true)
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
