@@ -45,10 +45,7 @@ I'm a **Computer Science student** passionate about building **robust backend sy
 ## 💻 LeetCode Statistics
 
 <div align="center">
-<img
-  src="https://leetcard.jacoblin.cool/navinrajaa?theme=light&ext=heatmap"
-  width="450"
-/>
+![LeetCode Stats](https://leetcard.jacoblin.cool/navinrajaa?theme=dark&ext=heatmap)
 </div>
 
 ---
