@@ -81,3 +81,4 @@ My goal is to bridge the gap between <strong>secure software development</strong
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 </a>
 </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa2&" alt="navinrajaa2" /></p>
