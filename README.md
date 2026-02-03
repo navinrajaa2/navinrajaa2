@@ -1,83 +1,235 @@
-<h1 align="center">Hi 👋, I'm Navin Rajaa</h1>
+<div align="center">
+  
+# 👋 Hi, I'm Navin Rajaa
 
-<p align="center">
-<strong>Java Backend Developer | Learning React, Node.js & Spring Boot</strong><br>
-<strong>Aspiring Red Team Operator | Secure Coding & Offensive Security Enthusiast</strong>
-</p>
+### Java Backend Developer | Full Stack Enthusiast | Aspiring Red Team Operator
 
-<hr>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-rajaa-61262a329/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/navinrajaa)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/navinrajaa02)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navin_rajaa_2)
 
-<h2>👨‍💻 About Me</h2>
+![Profile Views](https://komarev.com/ghpvc/?username=navinrajaa2&color=blueviolet&style=flat-square)
 
-<p>
-I’m a Computer Science student focused on building <strong>robust backend systems</strong> while developing a strong understanding of <strong>application security</strong>.<br>
-My goal is to bridge the gap between <strong>secure software development</strong> and <strong>offensive security practices</strong>.
-</p>
+</div>
 
-<ul>
-  <li>☕ Strong foundation in <strong>Java</strong>, <strong>OOP</strong>, and <strong>Data Structures & Algorithms</strong></li>
-  <li>🧠 Actively learning <strong>React, Next.js, and Spring Boot</strong></li>
-  <li>🔐 Interested in <strong>secure coding</strong>, <strong>backend security</strong>, and <strong>ethical hacking</strong></li>
-  <li>🧪 I learn by <strong>building, breaking, and improving systems</strong></li>
-  <li>📈 Consistent with problem-solving and hands-on projects</li>
-</ul>
+---
 
-<hr>
+## 🚀 About Me
 
-<h2>🚀 Current Learning Focus</h2>
+```java
+public class NavinRajaa {
+    private String role = "Java Backend Developer";
+    private String[] currentlyLearning = {"Spring Boot", "React", "Next.js", "Networking", "Red Teaming"};
+    private String goal = "Build secure, scalable systems & master offensive security";
+    
+    public void dailyRoutine() {
+        solveLeetCode();
+        buildProjects();
+        learnNewTech();
+        improveSecuritySkills();
+    }
+}
+```
 
-<ul>
-  <li><strong>Frontend:</strong> React → Next.js</li>
-  <li><strong>Backend:</strong> Spring Boot (REST APIs, JPA, MySQL)</li>
-  <li><strong>Security:</strong> OWASP Top 10, input validation, authentication basics</li>
-  <li><strong>Core CS:</strong> DSA, networking basics, Linux fundamentals</li>
-</ul>
+I'm a **Computer Science student** passionate about building **robust backend systems** while developing expertise in **application security** and **offensive security practices**. My mission is to bridge the gap between **secure software development** and **ethical hacking**.
 
-<hr>
+- ☕ Strong foundation in **Java, OOP, Data Structures & Algorithms**
+- 🌐 Building web applications with **JavaScript, HTML, CSS** and learning **React/Next.js**
+- 🔐 Security-focused mindset: learning **OWASP Top 10, secure coding, and penetration testing**
+- 🎯 Solving problems daily on **LeetCode** to sharpen algorithmic thinking
+- 🧪 Learn by **building, breaking, and securing systems**
+- 📈 Consistent growth through hands-on projects and continuous learning
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/navin-rajaa-61262a329/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navin rajaa" height="30" width="40" /></a>
-<a href="https://instagram.com/navin_rajaa_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="navin_rajaa_2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/navinrajaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="navinrajaa02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/navinrajaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="navinrajaa" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/navinra39rz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navinra39rz" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-</a>
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa2&" alt="navinrajaa2" /></p>
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Databases
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Backend Development
+- **Spring Boot** (REST APIs, JPA, Security)
+- **Microservices Architecture**
+- **Database Optimization**
+- **RESTful API Design**
+
+</td>
+<td width="50%">
+
+### 🌐 Frontend Development
+- **React.js** → **Next.js**
+- **Modern JavaScript (ES6+)**
+- **State Management**
+- **Responsive Design**
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔒 Security & Red Teaming
+- **OWASP Top 10**
+- **Penetration Testing Basics**
+- **Network Security**
+- **Secure Coding Practices**
+
+</td>
+<td width="50%">
+
+### 💻 Core CS Fundamentals
+- **Data Structures & Algorithms**
+- **Networking Protocols**
+- **Linux Administration**
+- **System Design Basics**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Featured Projects
+
+### 🔹 Java Projects
+Building practical applications to strengthen backend development skills:
+- **Console-based applications** demonstrating OOP principles
+- **Data structure implementations** (LinkedList, Stack, Queue, Trees)
+- **Algorithm solutions** for common programming challenges
+
+### 🔹 Web Development Projects
+Creating interactive web applications:
+- **Frontend projects** using HTML, CSS, JavaScript
+- **Full-stack applications** combining Java backend with modern frontend
+- **Responsive UI designs** with Tailwind CSS
+
+### 🔹 Problem Solving
+Daily practice on competitive programming platforms:
+- 🏆 Active on **LeetCode** - solving DSA problems
+- 📊 Consistent streak on **HackerRank** and **GeeksforGeeks**
+- 🎯 Focus on **algorithms, data structures, and optimization**
+
+> 💡 *Check out my pinned repositories below to see my latest work!*
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=navinrajaa2&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinrajaa2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa2&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 2025 Goals
+
+```diff
++ Master Spring Boot and build production-ready REST APIs
++ Complete 200+ LeetCode problems
++ Build 3-5 full-stack projects (Java + React)
++ Learn networking fundamentals and security protocols
++ Start journey into ethical hacking and red teaming
++ Contribute to open-source projects
++ Create technical blog posts sharing my learning
+```
+
+---
+
+## 🏆 Coding Profiles
+
+<div align="center">
+
+| Platform | Profile | Focus Area |
+|----------|---------|------------|
+| 💻 **LeetCode** | [@navinrajaa](https://www.leetcode.com/navinrajaa) | DSA & Problem Solving |
+| 🟢 **HackerRank** | [@navinrajaa02](https://www.hackerrank.com/navinrajaa02) | Java & Algorithms |
+| 📚 **GeeksforGeeks** | [@navinra39rz](https://auth.geeksforgeeks.org/user/navinra39rz) | Competitive Programming |
+| 🔷 **HackerEarth** | [@navinrajaa02](https://www.hackerearth.com/navinrajaa02) | Coding Challenges |
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing technology, or just having a chat about code and security!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-rajaa-61262a329/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navin_rajaa_2)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinrajaa02@gmail.com)
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ **Thanks for visiting my profile!** ⭐
+
+*"Building secure systems, one line of code at a time."*
+
+![Snake animation](https://raw.githubusercontent.com/navinrajaa2/navinrajaa2/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+**💡 Feel free to explore my repositories and don't forget to star ⭐ the ones you find interesting!**
+
+</div>
