@@ -162,8 +162,6 @@ Daily practice on competitive programming platforms:
 | 💻 **LeetCode** | [@navinrajaa](https://www.leetcode.com/navinrajaa) | DSA & Problem Solving |
 | 🟢 **HackerRank** | [@navinrajaa02](https://www.hackerrank.com/navinrajaa02) | Java & Algorithms |
 | 📚 **GeeksforGeeks** | [@navinra39rz](https://auth.geeksforgeeks.org/user/navinra39rz) | Competitive Programming |
-| 🔷 **HackerEarth** | [@navinrajaa02](https://www.hackerearth.com/navinrajaa02) | Coding Challenges |
-
 </div>
 
 ---
