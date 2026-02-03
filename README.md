@@ -9,7 +9,6 @@
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/navinrajaa02)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/navin_rajaa_2)
 
-![Profile Views](https://komarev.com/ghpvc/?username=navinrajaa2&color=blueviolet&style=flat-square)
 
 </div>
 
