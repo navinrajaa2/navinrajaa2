@@ -148,7 +148,7 @@ Daily practice on competitive programming platforms:
 > 💡 *Check out my pinned repositories below to see my latest work!*
 
 ---
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 ```diff
 + Master Spring Boot and build production-ready REST APIs
