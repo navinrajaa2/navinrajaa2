@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Navin Rajaa
+#  Hi, I'm Navin Rajaa
 
 ### Java Backend Developer | Full Stack Enthusiast | Aspiring Red Team Operator
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```java
 public class NavinRajaa {
