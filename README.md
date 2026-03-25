@@ -50,3 +50,118 @@ public class NavinRajaa {
         improveSecuritySkills();
     }
 }
+```
+
+- ☕ **Core:** Strong foundation in Java, OOP, Data Structures & Algorithms
+- 🌐 **Web:** Building web applications with JavaScript, HTML, CSS, and learning React
+- 🔐 **Security:** Learning OWASP Top 10, secure coding, and penetration testing
+- 🎯 **Problem Solving:** Solving problems daily on LeetCode to sharpen algorithmic thinking
+- 🧪 **Philosophy:** Learn by building, breaking, and securing systems!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+*(Dynamically rendered using animated skill icons)*
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,js,python,c,html,css,tailwind,react,mysql,mongo,git,linux,vscode&perline=7" />
+  </a>
+</p>
+
+---
+
+## 📊 Performance & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navinrajaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/navinrajaa?theme=dark&ext=heatmap" width="80%" />
+</div>
+
+---
+
+## 📚 What I'm Learning
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎯 Backend Development</h3>
+      <div align="left">
+        <ul>
+          <li><strong>Spring Boot</strong> (REST APIs, JPA, Security)</li>
+          <li><strong>Microservices Architecture</strong></li>
+          <li><strong>Database Optimization</strong></li>
+          <li><strong>RESTful API Design</strong></li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Frontend Development</h3>
+      <div align="left">
+        <ul>
+          <li><strong>React.js</strong></li>
+          <li><strong>Modern JavaScript (ES6+)</strong></li>
+          <li><strong>State Management</strong></li>
+          <li><strong>Responsive Design</strong></li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔒 Security & Red Teaming</h3>
+      <div align="left">
+        <ul>
+          <li><strong>OWASP Top 10</strong></li>
+          <li><strong>Penetration Testing Basics</strong></li>
+          <li><strong>Network Security</strong></li>
+          <li><strong>Secure Coding Practices</strong></li>
+        </ul>
+      </div>
+    </td>
+    <td width="50%" align="center">
+      <h3>💻 Core CS Fundamentals</h3>
+      <div align="left">
+        <ul>
+          <li><strong>Data Structures & Algorithms</strong></li>
+          <li><strong>Networking Protocols</strong></li>
+          <li><strong>Linux Administration</strong></li>
+          <li><strong>System Design Basics</strong></li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎯 2026 Goals
+
+```diff
++ 🚀 Master Spring Boot and build production-ready REST APIs
++ 🧩 Complete 200+ LeetCode problems
++ 💻 Build 3-5 full-stack projects (Java + React)
++ 🌐 Learn networking fundamentals and security protocols
++ 🛡️ Start journey into ethical hacking and red teaming
++ 🤝 Contribute to open-source projects
++ 📝 Create technical blog posts sharing my learning
+```
+
+---
+
+<div align="center">
+  
+### ⭐ Thanks for visiting my profile! ⭐
+*"Building secure systems, one line of code at a time."*
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=navinrajaa&color=2EC866&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
