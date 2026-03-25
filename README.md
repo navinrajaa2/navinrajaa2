@@ -112,6 +112,21 @@ public class NavinRajaa {
 
 ---
 
+## Featured Development
+
+<p align="center">
+  <a href="https://github.com/navinrajaa2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=navinrajaa2&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
+  </a>
+  <a href="https://github.com/navinrajaa2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=portfolio&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
+  </a>
+</p>
+
+*Note: Change `repo=portfolio` to your actual top repositories.*
+
+---
+
 ## Quantitative Performance
 
 <p align="center">
@@ -125,6 +140,20 @@ public class NavinRajaa {
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/navinrajaa?theme=dark&ext=heatmap" width="80%" />
+</p>
+
+---
+
+## Activity & Progression
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&theme=tokyo-night&bg_color=0D1117&hide_border=true&height=320&line=2EC866&point=FFFFFF" width="100%" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border=false" />
 </p>
 
 ---
