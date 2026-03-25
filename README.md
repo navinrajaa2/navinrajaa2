@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=250&section=header&text=Navin%20Rajaa&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Backend%20Engineer%20|%20Application%20Security%20Enthusiast&descAlignY=75&descAlign=50" width="100%" />
 
-<a href="https://github.com/navinrajaa">
+<a href="https://github.com/navinrajaa2">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EC866&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Securing+Applications;Mastering+Offensive+Security" />
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=005C84&center=true&vCenter=true&width=600&lines=Building+Scalable+Backend+Systems;Securing+Applications;Mastering+Offensive+Security" />
@@ -23,7 +23,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navinrajaa&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=navinrajaa2&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true&column=7" />
 </div>
 
 ---
@@ -114,20 +114,18 @@ public class NavinRajaa {
 
 ## Quantitative Performance
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navinrajaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navinrajaa2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC866" height="192" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinrajaa2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC866&card_width=350" height="192" />
+</p>
 
-<div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa2&theme=tokyonight&hide_border=true&background=0D1117&ring=2EC866&fire=2EC866&currStreakLabel=2EC866" height="192" />
+</p>
 
-<div align="center">
-  <br>
+<p align="center">
   <img src="https://leetcard.jacoblin.cool/navinrajaa?theme=dark&ext=heatmap" width="80%" />
-</div>
+</p>
 
 ---
 
@@ -146,7 +144,7 @@ public class NavinRajaa {
 ---
 
 <div align="center">
-  <a href="https://github.com/navinrajaa">
-    <img src="https://komarev.com/ghpvc/?username=navinrajaa&color=005C84&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <a href="https://github.com/navinrajaa2">
+    <img src="https://komarev.com/ghpvc/?username=navinrajaa2&color=005C84&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </a>
 </div>
