@@ -115,15 +115,22 @@ public class NavinRajaa {
 ## Featured Development
 
 <p align="center">
-  <a href="https://github.com/navinrajaa2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=navinrajaa2&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
+  <a href="https://github.com/navinrajaa2/Leetcode-Problems-java">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=Leetcode-Problems-java&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
   </a>
-  <a href="https://github.com/navinrajaa2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=portfolio&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
+  <a href="https://github.com/navinrajaa2/Meme-Generator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=Meme-Generator&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
   </a>
 </p>
 
-*Note: Change `repo=portfolio` to your actual top repositories.*
+<p align="center">
+  <a href="https://github.com/navinrajaa2/React-static-page-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=React-static-page-2&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
+  </a>
+  <a href="https://github.com/navinrajaa2/React-static-page-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=React-static-page-1&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
+  </a>
+</p>
 
 ---
 
