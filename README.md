@@ -55,7 +55,7 @@ public class NavinRajaa {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,python,c,html,css,tailwind,react,mysql,mongo,git,linux,vscode,bash,docker,postman&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,python,c,html,css,tailwind,react,mysql,mongo,git,linux,vscode&perline=9" />
   </a>
 </div>
 
@@ -178,9 +178,3 @@ public class NavinRajaa {
 - Contribute sophisticated modules to open-source security tools.
 
 ---
-
-<div align="center">
-  <a href="https://github.com/navinrajaa2">
-    <img src="https://komarev.com/ghpvc/?username=navinrajaa2&color=005C84&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
-</div>
