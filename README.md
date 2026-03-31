@@ -112,32 +112,9 @@ public class NavinRajaa {
 
 ---
 
-## Featured Development
-
-<p align="center">
-  <a href="https://github.com/navinrajaa2/Leetcode-Problems-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=Leetcode-Problems-java&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
-  </a>
-  <a href="https://github.com/navinrajaa2/Meme-Generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=Meme-Generator&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/navinrajaa2/React-static-page-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=React-static-page-2&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
-  </a>
-  <a href="https://github.com/navinrajaa2/React-static-page-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=navinrajaa2&repo=React-static-page-1&theme=tokyonight&bg_color=0D1117&hide_border=true&title_color=2EC866" width="48%" />
-  </a>
-</p>
-
----
-
 ## Quantitative Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navinrajaa2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC866" height="192" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinrajaa2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC866&card_width=350" height="192" />
 </p>
 
