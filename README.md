@@ -22,12 +22,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=navinrajaa2&theme=tokyonight&margin-w=15&no-bg=true&no-frame=true&column=7" />
-</div>
-
----
-
 ## Executive Summary
 
 I am a Computer Science student dedicated to backend engineering and offensive security. My academic journey and self-directed projects focus on constructing robust, highly scalable systems securely. My overarching goal is to narrow the gap between conventional software engineering and advanced ethical hacking methodologies. I thrive in environments that challenge algorithmic thinking and demand strict adherence to secure coding principles.
@@ -55,7 +49,7 @@ public class NavinRajaa {
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,js,python,c,html,css,tailwind,react,mysql,mongo,git,linux,vscode&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,js,python,c,html,css,tailwind,react,mysql,mongo,git,linux,vscode,ubuntu&perline=9" />
   </a>
 </div>
 
@@ -113,11 +107,6 @@ public class NavinRajaa {
 ---
 
 ## Quantitative Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navinrajaa2&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2EC866&card_width=350" height="192" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=navinrajaa2&theme=tokyonight&hide_border=true&background=0D1117&ring=2EC866&fire=2EC866&currStreakLabel=2EC866" height="192" />
 </p>
