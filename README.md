@@ -10,6 +10,9 @@
   </picture>
 </a>
 
+<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="30" />
+<b>Hey, I'm Navin — welcome to my profile!</b>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/navin-rajaa-61262a329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.leetcode.com/navinrajaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
@@ -23,6 +26,8 @@
 ---
 
 ## About Me
+
+<img align="right" alt="Coding animation" width="400" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 
 I'm a Computer Science student and Frontend Developer Intern, working toward becoming a well-rounded full-stack / backend engineer. My core focus is building reliable, scalable systems with **Java and Spring Boot**, paired with clean, maintainable REST APIs and thoughtful data modeling. I care about writing code that's easy to reason about — solid architecture, sensible abstractions, and tests that actually catch bugs.
 
@@ -129,6 +134,14 @@ public class NavinRajaa {
 
 ---
 
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=navinrajaa2&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+</p>
+
+---
+
 ## Quantitative Performance
 
 <p align="center">
@@ -145,6 +158,10 @@ public class NavinRajaa {
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=navinrajaa2&theme=tokyo-night&bg_color=0D1117&hide_border=true&height=320&line=2EC866&point=FFFFFF" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/navinrajaa2/navinrajaa2/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 <br>
@@ -171,4 +188,8 @@ public class NavinRajaa {
 
 <div align="center">
   <sub>Thanks for stopping by — always open to connecting on backend engineering, Java, and full-stack projects.</sub>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=navinrajaa2&label=Profile%20Views&color=2EC866&style=for-the-badge" alt="Profile views" />
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005C84&height=120&section=footer" width="100%" />
 </div>
