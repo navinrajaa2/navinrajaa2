@@ -9,10 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EC866&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Designing+Clean+REST+APIs+with+Spring+Boot;Solving+Algorithms%2C+One+Problem+at+a+Time" alt="Typing SVG" />
   </picture>
 </a>
-
-<img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Hi.gif" width="30" />
-<b>Hey, I'm Navin — welcome to my profile!</b>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/navin-rajaa-61262a329/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.leetcode.com/navinrajaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
